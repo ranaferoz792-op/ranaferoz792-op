@@ -58,7 +58,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranaferoz792-op&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" height="165" />
+  <img src="https://img.shields.io/github/followers/ranaferoz792-op?style=for-the-badge&logo=github&label=Followers&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Franaferoz792-op&color=informational&logo=github" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaferoz792-op&theme=dark&hide_border=true" alt="Ahmad's GitHub Streak" height="165" />
 </p>
 
